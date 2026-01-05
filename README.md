@@ -29,7 +29,7 @@ diabetes-prediction-ml-project/
 ````
 
 ##  How to Run the Analysis
-1.  Open `Diabetes_Part1_Analysis.ipynb` in **Google Colab** or Jupyter Notebook.
+1.  Open `Predict_Diabetes_1.ipynb` in **Google Colab** or Jupyter Notebook.
 2.  Ensure the dataset file is in the same directory or upload it to Colab.
 3.  Run all cells sequentially to see the data loading, EDA, and visualizations.
 4.  Clone this repository:
