@@ -25,7 +25,7 @@ The objective is to build a predictive model for diagnosing diabetes based on he
 diabetes-prediction-ml-project/
 
 ├── README.md                         
-├── Diabetes_Prediction_Part1.ipynb   
+├── Diabetes_Prediction_1.ipynb   
 ````
 
 ##  How to Run the Analysis
