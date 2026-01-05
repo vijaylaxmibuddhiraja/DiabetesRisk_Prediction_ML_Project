@@ -34,4 +34,4 @@ diabetes-prediction-ml-project/
 3.  Run all cells sequentially to see the data loading, EDA, and visualizations.
 4.  Clone this repository:
 
-    git clone 
+    git clone https://github.com/vijaylaxmibuddhiraja/DiabetesRisk_Prediction_ML_Project
