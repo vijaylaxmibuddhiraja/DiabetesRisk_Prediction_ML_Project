@@ -1,6 +1,6 @@
 # Diabetes Risk Prediction Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vijaylaxmibuddhiraja/DiabetesRisk_Prediction_ML_Project/blob/main/Predict_Diabetes.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vijaylaxmibuddhiraja/DiabetesRisk_Prediction_ML_Project/blob/main/Predict_Diabetes_1.ipynb)
 
 ## Problem Statement
 
